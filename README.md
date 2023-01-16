@@ -2,4 +2,4 @@
 Coding Arduino untuk tugas besar Mata Kuliah Sistem Tertanam
 
 
-Coding Arduino untuk alat pendeteksi gempa.
+Alat pendeteksi gempa
